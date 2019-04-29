@@ -1,7 +1,7 @@
 package org.oliver.entity;
 
 public class Student {
-	//12345 
+	//12345abc
 	private int stuNo;
 	private String name;
 	private int age;
